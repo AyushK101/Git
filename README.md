@@ -1,5 +1,5 @@
 # git notes and commands 
-# for complete migration to CLI form GUI of VS code
+# for complete migration to CLI from GUI of VS code
 - basics
 - internal git working
 - branching , merging
